@@ -1,0 +1,5 @@
+aiogram>=3.0,<4.0
+python-dotenv>=1.0,<2.0
+dateparser>=1.2,<2.0
+google-api-python-client>=2.0,<3.0
+google-auth>=2.0,<3.0
