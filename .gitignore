@@ -1,0 +1,26 @@
+# Секреты и конфигурация
+.env
+credentials.json
+
+# Локальная база данных пользователей
+user_profiles.json
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+ENV/
+
+# Настройки сред разработки (PyCharm, VS Code)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
